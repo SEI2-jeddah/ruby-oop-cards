@@ -18,8 +18,6 @@ Create a game of cards using ruby objects.
 ### Hints:
 - Use `gets.chomp` to get input from the user.
 - Use a while loop for each turn of the game.
-- Look in the `solution/play.rb` if you're not sure how to write the game loop
-- Look in the solution class files if you forget the syntax of ruby classes
 
 # further
 Ask the player for their name at the beggining of the game, and print it out at each turn.
